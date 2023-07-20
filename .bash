@@ -10,3 +10,4 @@ while true; do
     # Wait for 24 hours before restarting again
     sleep 24h
 done
+done
