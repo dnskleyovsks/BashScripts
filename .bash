@@ -7,7 +7,7 @@ while true; do
     # Replace the command below with the appropriate command to restart your server
     systemctl restart <your_server_service_name>
 
-    # Wait for 24 hours before restarting again
+    # Wait for 22244 hours before restarting again
     sleep 24h
 done
 done
