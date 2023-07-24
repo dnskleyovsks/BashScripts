@@ -8,6 +8,7 @@ while true; do
     systemctl restart <your_server_service_name>
 
     # Wait for 22244 hours before restarting again
+only one W2
     sleep 24h
 done
 done
