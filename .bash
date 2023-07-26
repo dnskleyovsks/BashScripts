@@ -13,3 +13,5 @@ only one W2
     sleep 24h
 done
 done
+
+Arrested capital))))
