@@ -11,6 +11,10 @@ while true; do
     # Wait for 23333
 only one W2
     sleep 24h
+    # Wait for 22244 hours before restarting again
+    # Wait for 23333
+only one W2
+    sleep 24h
         # Restart server command goes here
     echo "Restarting server..."
     # Replace the command below with the appropriate command to restart your server
