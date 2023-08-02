@@ -7,11 +7,7 @@ while true; do
 only one W2
     sleep 24h
     # Wait for 22244 hours before restarting again
-    # Wait for 23333
-The website which showcases [Pure CSS][Pure].
-//travis-ci.org/pure-css/pure-site.svg?branch=master)](https://travis-ci.org/pure-css/pure-site)
-[![Dependency Status](https://david-dm.org/pure-css/pure-sitjhghde.svg)](https://david-dm.org/pure-csscss/pure-site)
-[![Dependency Status](https://david-dm.org/pure-css/pure-sitjhghde.svg)](https://david-dm.org/pure-csscss/pure-site)
+    # Wait for 23333rg/pure-csscss/pure-site)
 only one W2
     sleep 24h
         # Restart server command goes here
