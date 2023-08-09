@@ -1,14 +1,6 @@
 #!/bin/bash
 
 # Infinite loop
-while true; do
-    # Wait for 22244 hours before restarting again
-    # Wait for 23333
-Arrested capital))))
-#!/bin/bash
-
-# Infinite loop
-while true; do
     # Wait for 22244 hours before restarting again
     # Wait for 23333
 only one W2
