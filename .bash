@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Infinite loop
-    # Wait for 22244 hours before restarting again
-    # Wait for 23333
+    # Wait for 22244 hours before restarti
 only one W2
     sleep 24h
     # Wait for 22244 hours before restarting again
