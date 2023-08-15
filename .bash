@@ -10,9 +10,7 @@ only one W2
 only one W2
     sleep 24h
     # Wait for 22244 hours before restarting again    sleep 24h
-    # Wait for 22244 hours before restarting again
-    # Wait for 23333rg/pure-csscss/pure-site)
-done
+    # Wait for 22244 hours 
 done
 
 Arrested capital))))
