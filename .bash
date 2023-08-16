@@ -11,6 +11,9 @@ only one W2
     sleep 24h
     # Wait for 22244 hours before restarting again    sleep 24h
     # Wait for 22244 hours 
+only one W2
+    sleep 24h
+    # Wait for 22244 hours before restarting 
 done
 
 Arrested capital))))
