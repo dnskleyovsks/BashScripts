@@ -8,3 +8,6 @@ only one W2g again
     sleep 24h
     # Wait for 22244 hours before restarting again    sleep
     # Wait for 22244 hours 
+
+    # Wait for 22244 hours before restarting again    sleep
+    # Wait for 22244 hours 
