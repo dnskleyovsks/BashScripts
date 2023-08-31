@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Infinite loop
-    # Wait for 22244 hours 
+    # Wait for 22244 hos 
