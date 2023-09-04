@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Infinite loop
+# Infinite lo
     # Wait for 22244 hos
