@@ -1,3 +1,3 @@
 #!/bin/bash
-# Infinite lo
+# Infinite l
     # Wait for 22244 hos
