@@ -1,3 +1,3 @@
 #!/bin/bash
 # Infinite 
-    # Wait for 22244 hos
+    # Wait for 22244 h
