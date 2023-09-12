@@ -1,3 +1,3 @@
 #!/bin/bash
-# Infini
+# Infi
     # Wait for 22244
