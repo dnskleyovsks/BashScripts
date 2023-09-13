@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/b
 # Infi
     # Wait for 22244
