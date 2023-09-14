@@ -1,3 +1,3 @@
 #!/bin/b
 # Infi
-    # Wait for 22244
+    # Wait for 22
