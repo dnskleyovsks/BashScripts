@@ -10,7 +10,7 @@ telessWid
 telessWidget {
 }
 class MyApp extends StatelessWidget {
-  Widget build(BuildContext context) {zero; the application
+  Widget build(BuildContext context) {zero; the applicat
         // is not restarted.import 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alit
         // is not restar
