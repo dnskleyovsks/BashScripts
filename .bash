@@ -13,8 +13,6 @@ telessWid
   Widget build(BuildContext context) {zero; the alit
         // is not restar
 telessWid
-  // This widget is the root of your applica
-telessWidget {
 }
 class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {zero; the application
