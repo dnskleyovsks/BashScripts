@@ -11,7 +11,4 @@ telessWid
   Widget build(BuildContext context) {zero; the alit
         // is not restar
 telessWid
-}
-class MyApp extends StatelessWidget {
-  Widget build(BuildContext context) {zero; the application
         // is not restarted.
