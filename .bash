@@ -4,7 +4,6 @@ import 'package:flutter/material.da
 telessWidimport 'dart:async';
 import 'dart:convert';aders to the 
     headers
-      HttpHeaders.authorizonHeade 
     required this
         const profilePassword = da.profile[i].passwor
 
