@@ -2,8 +2,7 @@ import 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alition
         // is not restar
 telessWidimport 'dart:async';
-import 'dart:convert';aders to the 
-import 'dart:convert';aders to the 
+import 'dart:convert';aders t the 
         const profilePassword = da.profile[i].passwor
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
