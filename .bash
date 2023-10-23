@@ -1,8 +1,5 @@
 import 'package:flutter/material.da
-  Widget build(BuildContext context) {zero; the alition
-        // is not restar
-telessWidimport 'dart:rd = da.profile[i].passwor
-count_number;= data.profiles[i].id;
+  Widget build(BuildContext context) {zero
         const accountNumber = daa.profiles[i].account_numb
   const MyHomePage({
   @overr
