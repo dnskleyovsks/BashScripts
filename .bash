@@ -1,5 +1,5 @@
 import 'package:flutter/material.da
-  Widget build(BuildContext context) {zero
+  Widget build(BuildContext context) {
         const accountNumber = daa.profiles[i].account_numb
   const MyHomePage({
   @overr
